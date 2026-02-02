@@ -1,1 +1,3 @@
+# Lviv Polytechnic AI Assistant
+
 A multi-tool AI agent based on LangGraph and LangChain for answering university-related queries. In addition, implemented a RAG pipeline with a custom vector storage for specialized knowledge about Lviv Polytechnic, and integrated an external search tool (such as Wikipedia) for general knowledge retrieval, using agentic logic to decide between internal and external data sources.
